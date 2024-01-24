@@ -18,7 +18,7 @@ public class Calificaciones {
         participacion*=0.10f; 
         primerexa*=0.25f;
         segundoexa*=0.25f;
-        exafin*=0.50f;
+        exafin*=0.40f;
         notfinal=participacion+primerexa+segundoexa+exafin;
         System.out.println("La calificacion final es : "+notfinal);
        
